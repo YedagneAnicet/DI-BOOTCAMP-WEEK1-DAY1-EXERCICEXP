@@ -33,11 +33,6 @@ h3 {
     margin: 0 auto;
 }
 
-.grid-container {
-    display: grid;
-    grid-template-columns: 70% 30%;
-}
-
 table {
     table-layout: fixed;
     width: 70%;
@@ -62,6 +57,10 @@ img {
     height: 155px;
     margin: 12px;
     transition: all 1s;
+}
+
+.media{
+    text-align: center;
 }
 
 img:hover {
